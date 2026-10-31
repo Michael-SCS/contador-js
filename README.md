@@ -1,31 +1,48 @@
-# Contador JS
+<div align="center">
 
-Contador interactivo hecho con HTML, CSS y JavaScript puro. Sube, baja y se reinicia con un clic, sin recargar la página.
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Contador%20JS&fontSize=42&fontColor=ffffff)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+### ✨ Un contador chiquito, hecho con mucho cariño ✨
 
-![Vista previa del contador](./assets/preview.png)
+Sube, baja y se reinicia con un clic, sin recargar la página 🎀
 
-## Demo
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-[Ver el proyecto en vivo](https://michael-scs.github.io/contador-js/)
+</div>
 
-## Qué hace
+<!-- Cuando tengas la captura, quita las marcas de comentario:
+<div align="center">
+  <img src="./assets/preview.png" alt="Vista previa del contador" width="400" />
+</div>
+-->
 
-- Suma uno al valor actual
-- Resta uno al valor actual
-- Reinicia el contador a su valor inicial
-- [Otra función que agregues]
+<!-- Cuando actives GitHub Pages, quita las marcas de comentario:
+## 🌐 Demo
 
-## Tecnologías
+👉 [Ver el proyecto en vivo](https://michael-scs.github.io/contador-js/)
+-->
 
-- **HTML:** estructura de la página
-- **CSS:** estilos y diseño adaptable a móvil
-- **JavaScript:** selección de elementos, eventos de clic y actualización del DOM
+## 🌟 ¿Qué hace?
 
-## Cómo ejecutarlo
+| Botón            | Qué pasa                |
+| ---------------- | ----------------------- |
+| ➕ **Sumar**     | Suma 5 al valor actual  |
+| ➖ **Restar**    | Resta 1 al valor actual |
+| 🔄 **Reiniciar** | Vuelve a 0              |
+
+🚫 Si restar dejaría el número en negativo, no lo permite y te avisa.
+
+⚙️ Los valores de suma y resta están guardados en constantes, así que cambiarlos es editar una sola línea.
+
+## 🛠️ Tecnologías
+
+- 🧱 **HTML:** estructura de la página
+- 🎨 **CSS:** estilos y diseño adaptable a móvil
+- ⚡ **JavaScript:** selección de elementos, eventos de clic y actualización del DOM
+
+## 🚀 Cómo ejecutarlo
 
 1. Clona el repositorio:
    ```bash
@@ -35,9 +52,10 @@ Contador interactivo hecho con HTML, CSS y JavaScript puro. Sube, baja y se rein
    ```bash
    cd contador-js
    ```
-3. Abre `index.html` en tu navegador.
+3. Abre `index.html` en tu navegador 🎉
 
-## Estructura
+<details>
+<summary>📁 Estructura del proyecto</summary>
 
 ```
 contador-js/
@@ -47,13 +65,24 @@ contador-js/
 └── README.md
 ```
 
-## Lo que aprendí
+</details>
 
-- [Cómo seleccionar elementos del HTML desde JavaScript]
-- [Cómo escuchar eventos con addEventListener]
-- [Qué problema tuve y cómo lo resolví]
+## 💡 Lo que aprendí
 
-## Autor
+- 🔎 [Diferencia entre guardar un elemento en una variable y ejecutar una función]
+- 🖱️ [Cómo escuchar eventos con addEventListener]
+- 🐛 [Qué error me costó más y cómo lo resolví]
+
+## 👩‍💻 Autor
+
+<div align="center">
 
 **Michael Castillo**
-[GitHub](https://github.com/Michael-SCS) · [LinkedIn](https://www.linkedin.com/in/mscastillosaldarriaga/) · [Correo](mailto:michaelsteven3211@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Michael-SCS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mscastillosaldarriaga/)
+[![Correo](https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michaelsteven3211@gmail.com)
+
+Hecho con 💜 y mucho café frío
+
+</div>
