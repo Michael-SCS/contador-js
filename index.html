@@ -1,17 +1,31 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Contador</title>
-</head>
-<body>
-    <label for="contador">Contador:</label>
-    <p id="contador"></p>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main>
+      <h1>Contador js</h1>
+      <div class="valorActual">
+        <h2>Valor Actual</h2>
+        <p id="contador">0</p>
+        <p class="pista">
+          Suma <span id="numeroSumar"></span> · Resta
+          <span id="numeroRestar"></span>
+        </p>
+      </div>
+      <div class="botones">
+        <button type="button" id="sumar">+ Sumar</button>
+        <div class="botonesSecundarios">
+          <button type="button" id="restar">Restar</button>
+          <button type="button" id="reiniciar">Reiniciar</button>
+        </div>
+      </div>
 
-    <button id="sumar">Sumar</button>
-    <button id="restar">Restar</button>
-    <button id="reiniciar">Reiniciar</button>
-</body>
-<script src="script.js"></script>
+      <script src="script.js"></script>
+    </main>
+  </body>
 </html>

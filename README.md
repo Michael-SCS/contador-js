@@ -12,17 +12,9 @@ Sube, baja y se reinicia con un clic, sin recargar la página 🎀
 
 </div>
 
-<!-- Cuando tengas la captura, quita las marcas de comentario:
 <div align="center">
-  <img src="./assets/preview.png" alt="Vista previa del contador" width="400" />
+  <img src="./assets/demo.gif" alt="Vista previa del contador" width="400" />
 </div>
--->
-
-<!-- Cuando actives GitHub Pages, quita las marcas de comentario:
-## 🌐 Demo
-
-👉 [Ver el proyecto en vivo](https://michael-scs.github.io/contador-js/)
--->
 
 ## 🌟 ¿Qué hace?
 
