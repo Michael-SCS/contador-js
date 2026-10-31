@@ -1,4 +1,3 @@
-# contador-js
 # Contador JS
 
 Contador interactivo hecho con HTML, CSS y JavaScript puro. Sube, baja y se reinicia con un clic, sin recargar la página.
