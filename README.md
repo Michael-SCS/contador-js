@@ -57,4 +57,4 @@ contador-js/
 ## Autor
 
 **Michael Castillo**
-[GitHub](https://github.com/Michael-SCS) · [LinkedIn](https://linkedin.com/in/tu-perfil) · [Correo](mailto:tu-correo@ejemplo.com)
+[GitHub](https://github.com/Michael-SCS) · [LinkedIn](https://www.linkedin.com/in/mscastillosaldarriaga/) · [Correo](mailto:michaelsteven3211@gmail.com)
